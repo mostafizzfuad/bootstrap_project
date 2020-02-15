@@ -1,0 +1,71 @@
+/*******************************
+	All Responsive Code
+*******************************/
+
+@media (max-width: 575.98px) {
+	.title-bar {
+		height: 80px;
+	}
+
+	.title-bar h2 {
+		font-size: 14px;
+		font-weight: 300;
+	}
+
+	.title-bar .right-content a {
+		margin: 0;
+		font-size: 14px;
+	}
+
+	.un-expert-heading img {
+		height: 56px;
+		width: 50px;
+	}
+
+	.un-expert-heading h2 {
+		top: 20px;
+		font-size: 15px;
+	}
+
+	.un-expert-title h3 {
+		font-size: 18px;
+	}
+
+	.service-title h2 {
+		font-size: 20px;
+	}
+
+	.cardtype-content h4 {
+		font-size: 20px;
+	}
+
+	.cardtype-content p {
+		font-size: 14px;
+	}
+
+	.arrow-sign a {
+		padding: 5px 10px;
+		margin-left: 5px;
+	}
+
+	.arrow-sign {
+		right: 20px;
+		top: 0px;
+	}
+
+	.arrow-sign i {
+		font-size: 15px;
+	}
+
+	#article img {
+		height: 220px;
+		width: auto;
+		object-fit: cover;
+	}
+
+	.un-expert-title2 h3 {
+		font-size: 20px;
+	}
+}
+
+@media (min-width: 768px) and (max-width:991.98px) {}
